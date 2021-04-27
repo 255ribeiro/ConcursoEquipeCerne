@@ -5,9 +5,13 @@
 ## Equipe:
 
 #### Arquitetura:
+
 Fernando Ribeiro
+
 Kyane Bomfim
+
 Leonardo Prazeres
+
 Marcela Porto
 
 #### Engenheiro agrônomo:
