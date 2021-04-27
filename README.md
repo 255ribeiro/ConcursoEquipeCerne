@@ -1,5 +1,3 @@
-# Concurso Av. Bernardo Monteiro - Belo Horizonte MG
-
 ## Colocar texto de apresentação
 
 ## Equipe:
