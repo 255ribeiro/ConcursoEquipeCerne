@@ -4,13 +4,7 @@
 
 #### Arquitetura:
 
-Fernando Ribeiro
-
-Kyane Bomfim
-
-Leonardo Prazeres
-
-Marcela Porto
+Fernando Ribeiro <br/> Kyane Bomfim <br/> Leonardo Prazeres <br/> Marcela Porto
 
 #### Engenheiro agrônomo:
 Antônio Barreto
