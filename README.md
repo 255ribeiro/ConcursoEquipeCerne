@@ -1,4 +1,4 @@
-#Concurso Av. Bernardo Monteiro - Belo Horizonte MG]
+# Concurso Av. Bernardo Monteiro - Belo Horizonte MG
 
 ## Colocar texto de apresentação
 
